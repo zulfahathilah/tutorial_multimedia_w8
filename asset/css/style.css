@@ -1,0 +1,23 @@
+body{
+background-color:#A7C7E7
+}
+
+header{
+padding: 20px;
+text-align: center;
+background: white;
+color: #A7C7E7;
+font-size: 30px;
+}
+
+font1{
+color:#6082B6;
+font-size:20px;
+font-family:Goudy Stout;
+}
+
+font2{
+color:#6082B6;
+font-size:20px;
+font-family:Goudy Old Style;
+}
